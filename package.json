@@ -1,0 +1,16 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.3",
+    "fastify": "^3.0.3",
+    "fastify-cors": "^4.0.0"
+  }
+}
